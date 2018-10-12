@@ -1,0 +1,86 @@
+.zuida{
+	margin:0 auto;
+	border:1px solid #ccc;
+	width:600px;
+	background:#867b4c;
+    height: 670px;
+}
+.top1{
+    margin: 0 auto;
+    width: 100px;
+    /* font-size: 51px; */
+    color: #f2b179;
+    font:bold 51px Apial;
+}
+.top2{
+    margin: 0 auto;
+    width: 161px;
+    font-size: 24px;
+}
+.new2{
+	color:#fff;
+    font-size: 19px;
+}
+.new3{
+	color:#fff;
+	padding-left: 10px;
+    vertical-align: 6px;
+    font-size: 23px;
+}
+.new{
+	display: block;
+    margin: 0 auto;
+    width: 103px;
+    background: #dd7813;
+    height: 36px;
+    border-radius: 6px;
+    line-height: 36px;
+    text-align: center;
+    text-decoration:none;
+}
+.score{
+    /* display: inline-block; */
+    margin: 0 auto;
+    width: 163px;
+    background: #8f7a65;
+    height: 36px;
+    border-radius: 6px;
+    line-height: 36px;
+    text-align: center;
+}
+.new1{
+	display:flex;
+}
+.container1{
+	width:460px;
+	height:460px;
+	padding:20px;
+	/* border:1px solid #ccc; */
+	margin:0 auto;
+	margin-top: 10px;
+	border-radius:13px;
+	position:relative;
+    background: #5f5b33;
+
+}
+.cell{
+	width:100px;
+	height:100px;
+	background:#7a6858;
+	border-radius: 19px;
+	position:absolute;
+
+}
+.numcell{
+   border-radius: 19px;
+   position:absolute;
+   /* font-size: 80px; */
+   text-align: center;
+   font: bold 60px Apial;
+   line-height: 100px;
+}
+#score1{
+    font-size: 30px;
+    color:#fff;
+    vertical-align: 2px;
+}
